@@ -4,7 +4,13 @@
   "menu": [
     {
       "title": "all posts with the 'post' tag",
-      "post_list": "post"
+      "post_list": "post",
+      "entries": [
+        {
+          "title": "one more post thats not a post",
+          "url": "https://birdsmakesound.com"
+        }
+      ]
     },
     {
       "title": "another menu",
