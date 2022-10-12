@@ -1,10 +1,18 @@
 {
-  "title": "THIS IS THE TITLE",
-  "subtitle": "THE TRUE TITLE",
+  "title": "hello and WELCOME",
+  "subtitle": "This is a big test thanks",
   "menu": [
     {
       "title": "all posts with the 'post' tag",
       "post_list": "post"
+    },
+    {
+      "title": "another menu",
+      "entries": [
+        {
+          "title": "hello"
+        }
+      ]
     }
   ]
 }
