@@ -10,7 +10,8 @@
       "title": "another menu",
       "entries": [
         {
-          "title": "hello"
+          "title": "my other site",
+          "url": "https://parkerdavis.dev"
         }
       ]
     }
